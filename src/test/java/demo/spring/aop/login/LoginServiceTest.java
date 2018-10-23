@@ -12,7 +12,7 @@ import static org.junit.Assert.assertThat;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LoginControllerTest {
+public class LoginServiceTest {
 
     @Autowired
     private LoginService classUnderTest;
